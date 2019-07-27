@@ -1,0 +1,17 @@
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\StudentListAPI.deps.json
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\StudentListAPI.runtimeconfig.json
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\StudentListAPI.runtimeconfig.dev.json
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\StudentListAPI.dll
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.csprojAssemblyReference.cache
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.csproj.CoreCompileInputs.cache
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.RazorAssemblyInfo.cache
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.RazorAssemblyInfo.cs
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.AssemblyInfoInputs.cache
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.AssemblyInfo.cs
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.RazorTargetAssemblyInfo.cache
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\StudentListAPI.pdb
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.dll
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\obj\Debug\netcoreapp2.2\StudentListAPI.pdb
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\global.json
+D:\_LearnToday\ASP.net Core\StudentListAPI\StudentListAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
